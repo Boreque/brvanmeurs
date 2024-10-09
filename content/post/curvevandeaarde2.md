@@ -9,6 +9,7 @@ tags= [
     "Beeldcultuur",
     "Horizon",
 ]
+image = "../image/aardeii.png"
 +++
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/explorerii1935.jpeg?raw=true "Explorer II")
