@@ -1,5 +1,5 @@
 ---
-title: "Search"
+title: "Zoeken"
 slug: "search"
 layout: "search"
 outputs:
