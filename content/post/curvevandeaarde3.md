@@ -10,7 +10,7 @@ tags= [
     "Horizon",
 	"Earthrise"
 ]
-image = "../image/aardeiii.png" 
+image = "../images/aardeiii.png" 
 +++
 
 
