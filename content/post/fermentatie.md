@@ -7,7 +7,7 @@ tags= [
     "Fermentatie",
     "Politiek",
     "Sandor Katz",
-    "Reflectie",
+
 ]
 image = "../images/kefir.jpg"
 +++

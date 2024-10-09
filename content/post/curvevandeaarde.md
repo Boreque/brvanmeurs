@@ -9,6 +9,7 @@ tags= [
     "Beeldcultuur",
     "Planisfeer",
 ]
+image = "../images/aarde.png"
 +++
 
 ![](https://github.com/Boreque/deklos/blob/master/static/images/cailletet_1898.png?raw=true "Cailletet")

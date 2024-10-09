@@ -15,11 +15,12 @@ menu:
             icon: user
 ---
 
+# Wie ben ik?
+
 Mijn naam is Boris Robert van Meurs (1994). Ik ben filosoof, docent, en beoefenaar van Zen. Samen met mijn vrouw en zoontje woon ik in Nijmegen. 
 
 Op mijn blog vind je een paar van mijn gedachtes over eco-filosofie, literatuur, zenboeddhisme en andere zaken die mijn interesse hebben. Ik hoop dat mijn bijdragen jouw eigen denken inspireren of aanleiding geven tot verdere discussie.
 
-# Wie ben ik?
 
 ## Filosofie 
 
