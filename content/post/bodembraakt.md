@@ -10,6 +10,10 @@ tags= [
 	"Tijd",
 	"Verleden"
 ]
+categories= [
+"Filosofie",
+]
+image= "../images/blog_nerts.png"
 +++
 
 *In nagedachtenis van de vijftien miljoen geruimde nertsen in Denemarken.*
