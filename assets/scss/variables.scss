@@ -61,7 +61,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
     --card-border-radius: 0px;
 
-    --card-padding: 20px;
+    --card-padding: 50px;
 
     @include respond(md) {
         --card-padding: 25px;
