@@ -8,8 +8,7 @@ tags = [
 ]
 date = 2020-01-05
 categories = [
-    "Film",
-    "Anthropocene",
+    "Filosofie",
 ]
 menu = "post"
 +++

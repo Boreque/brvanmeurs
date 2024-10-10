@@ -7,9 +7,10 @@ tags= [
     "Fermentatie",
     "Politiek",
     "Sandor Katz",
-
 ]
-image = "../images/kefir.jpg"
+categories= ["Filosofie",
+]
+image = "../images/blog_fermentatie.png"
 +++
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kefir_wodny_%28Tibicos%29.jpg/640px-Kefir_wodny_%28Tibicos%29.jpg "Kefir")
