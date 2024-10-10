@@ -22,7 +22,7 @@ image= "../images/blog_nerts.png"
 
 ![](https://sa.kapamilya.com/absnews/abscbnnews/media/2020/tvpatrol/11/25/mink.jpg) Bron: kapamilya.com.
 
-<img src="/https://sa.kapamilya.com/absnews/abscbnnews/media/2020/tvpatrol/11/25/mink.jpg)img/contact.pn" alt="image" width="50%" height="auto">
+<img src="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/tvpatrol/11/25/mink.jpg" alt="image" width="50%" height="auto">
 
 Geruimde nertsen worden begraven in Denemarken.
 <br/><br/>
