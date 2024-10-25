@@ -24,7 +24,7 @@ Wat is geëngageerd boeddhisme nu eigenlijk? Volgens religiewetenschapper [Paul 
 
 ![](../images/hahn_king.png)
 
-![](https://weareili.org/wp-content/uploads/2022/10/B25AE953-FDF1-449E-AAFE-992851674290.png)
+<p style="text-align: center;">Martin Luther King en Thich Nhat Hahn in 1967. De leiders van vredesbewegingen kenden en waarderen elkaars werk. Hahn en King troffen elkaar enkele malen.</p>
 
 De term *geëngageerd boeddhisme* werd volgens Fuller gepopulariseerd door Thich Nhat Hahn, die al in 1967 over *engaged Buddhism* sprak. Samen met anderen zette Nhat Hahn zich tijdens de Vietnamoorlog in voor slachtoffers aan beide kanten van het conflict. Toen hij na de oorlog verbannen werd uit Vietnam, bleef hij zich engageren voor bootvluchtelingen in de nasleep van de oorlog. In de decennia daarna riep Nhat Hahn ook regelmatig op tot verduurzaming van onze relatie tot de aarde. Vanuit zijn meditatiecentrum *Plum Village* in de Franse Dordogne combineerde hij daarmee de boeddhistische praktijk met een maatschappelijke missie. Nhat Hahn geloofde namelijk dat boeddhisme ons zou kunnen helpen om eerlijke onder ogen te komen hoe ons gedrag leed in stand houdt. Als we dankzij meditatie en andere oefeningen niet meer in de ban zijn van onze verlangens, durven we misschien pas echt te zien wat ons gedrag tot gevolgen heeft. Dan wordt ook duidelijk wat we kunnen veranderen aan ons zelf en aan onze omgeving.
 
