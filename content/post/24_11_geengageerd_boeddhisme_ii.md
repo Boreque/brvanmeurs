@@ -1,5 +1,5 @@
 +++
-date= 04-11-2025
+date= 2025-04-11
 menu= "post"
 title = "Tussen onthechting en engagement"
 description = "Hoe kan je de wereld veranderen als je de wereld afwijst? Geëngageerd boeddhisme moet een weg vinden tussen onthechting en engagement."
