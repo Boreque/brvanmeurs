@@ -1,5 +1,5 @@
 +++
-date= 25-10-2024
+date= 2024-10-25
 menu= "post"
 title = "Wat is geëngageerd boeddhisme?"
 description = "We denken bij boeddhisme misschien aan zelfontwikkeling, mindfulness of meditatie. Maar wat gebeurt er als boeddhisten zich maatschappelijk inzetten?"
