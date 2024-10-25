@@ -24,8 +24,10 @@ Geëngageerd boeddhisme is inmiddels een gevestigde stroming, waarbij opgeroepen
 
 Wat is geëngageerd boeddhisme nu eigenlijk? Volgens religiewetenschapper [Paul Fuller](https://www.bloomsbury.com/us/introduction-to-engaged-buddhism-9781350129092/) (2022) is geëngageerd boeddhisme een vorm van boeddhisme die zich richt op politiek, de samenleving en het milieu. Net zoals alle boeddhisten proberen geëngageerde boeddhisten het lijden in de wereld op te lossen. Alleen denken zij niet dat we enkel lijden door onze eigen verlangens en overtuigingen, zoals traditionele boeddhisten dat denken, maar juist ook door de manier waarop de samenleving georganiseerd is. Het is duidelijk dat een corrupte overheid of een totalitair politiek systeem op grote schaal ellende veroorzaakt. Maar ook een samenleving als de onze, die ons aanmoedigt eindeloos te consumeren, kan ons op het verkeerde pad zetten, wanneer we ons overgeven aan verlangens die we nooit kunnen bevredigen. Geëngageerd boeddhisme zet zich daarom in voor een politieke verandering vanuit compassie, onthechting en verbondenheid die probeert de bronnen van leed te dempen.
 
+![./images/hahn_king.png]
+
 <figure>
-<img src="./images/hahn_king.png" width="200" />
+<img src="../images/hahn_king.png" width="200" />
 <figcaption>Thich Nhat Hahn en Martin Luther King.</figcaption> 
 </figure>
 
