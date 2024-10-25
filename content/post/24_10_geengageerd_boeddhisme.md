@@ -12,8 +12,6 @@ categories= ["Zen",
 image = "../images/24_10_boeddhisme.png"
 +++
 
-# Wat is geëngageerd boeddhisme? 
-
 Activisme associëren we niet zo snel met boeddhisme. Waar activisten de wereld in beweging willen brengen, lijken boeddhisten deze misschien juist tot stilte te manen. Ze mediteren, oefenen hun aandacht, en proberen zich niet te hechten aan dingen die veranderen. Zijn *echte* activisten niet veel luidruchtiger, bozer, en misschien ook gewelddadiger dan dat? 
 
 Toch is het een vooroordeel dat boeddhisten zich vooral naar binnen zou keren. Er bestaat namelijk zoiets als geëngageerd boeddhisme, dat zich hard maakt om de samenleving te verbeteren. De Vietnamese zenmonnik [Thich Nhat Hahn](https://en.wikipedia.org/wiki/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh) (op afbeelding boven post), bijvoorbeeld, zette zich zijn leven lang in voor vluchtelingen en het milieu. Hij beroept zich hierbij expliciet op belangrijke boeddhistisch teksten en overtuigingen, zoals zelfloosheid en verbondenheid met de wereld. 
