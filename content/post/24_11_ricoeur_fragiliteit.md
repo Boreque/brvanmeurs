@@ -25,13 +25,14 @@ Voor een [lezing](https://journals.sagepub.com/doi/10.1177/0191453795021005-603)
 
 Het tragische en het fragiele gaan namelijk allebei over waardige mensen, mensen die onze respect verdienen. Zo wees Aristoteles er al op dat tragedies het beste zijn als ze gaan over mensen naar wie we kunnen opkijken. Dat wat fragiel is mag niet zomaar vernietigd worden. Als we zien hoe een fragiel ecosysteem ineenstort, dan zullen we het gevoel hebben dat dit niet had moeten gebeuren: het fragiele is het waard om beschermd te worden. Maar er zijn volgens Ricoeur ook belangrijke verschillen. In een tragedie kan een hoofdpersoon niets doen om te ontsnappen aan zijn lot. Hoewel hij probeert zijn situatie te verbeteren, zorgt dat er juist voor dat hij zijn eigen ondergang voorbereidt. De uitkomst van een fragiele situatie ligt daarentegen nog niet vast. 
 
-![](../images/rashomon.png#center) Aan het einde van de film *Rashomon* van Akira Kurosawa neemt een houthakker verantwoordelijkheid over een vondeling; na een plot vol geweld herstelt dit hoop in de mens. 
+![](../images/rashomon.png#center) 
+<cap> Aan het einde van de film *Rashomon* van Akira Kurosawa neemt een houthakker verantwoordelijkheid over een vondeling; na een plot vol geweld herstelt dit hoop in de mens. </cap>
 
 Sterker nog, dat wat fragiel is roept ons op om iets te doen. Fragiliteit vraagt daarbij om zorg maar ook om liefde. Als we een pasgeboren baby zien die aan zijn lot is overgelaten, dan weten we meteen dat we moeten handelen. We willen het fragiele helpen om te overleven, maar ook om het een waardig leven te geven waarin het kan opbloeien. Ricoeur wijst erop dat het fragiele ons dus verantwoordelijk maakt. "Door op mij te rekenen," schrijft Ricoeur, "maakt de ander mij verantwoordelijk voor mijn acties." 
 
 Dit lijkt misschien filosofisch geneuzel over definities. Maar het maakt een groot verschil of iets als tragisch of als fragiel zien. Als we bijvoorbeeld zeggen dat de oorlog in Oekraïne tragisch is, dan kan dat betekenen dat we deze vreselijke strijd zien als de uitkomst van grote historische krachten waarop niemand controle heeft. Als we zeggen dat Oekraïne strijdlustig maar fragiel is, dan is dit een oproep om het land te steunen in een oorlog waarvan de uitkomst nog niet vastligt. Het tragische vraagt om berusting, het fragiele om actie.
 
-## Fragiele verantwoordelijkheid
+# Fragiele verantwoordelijkheid
 
 In zijn lezing zegt Ricoeur dat alle samenlevingen fragiel zijn, omdat fragiliteit bij politieke macht hoort. Dat betekent dus ook dat we als politieke wezens telkens verantwoordelijk zijn om te reageren op deze fragiliteit. Hoe komen we fragiliteit en verantwoordelijkheid tegen in de politiek?
 
