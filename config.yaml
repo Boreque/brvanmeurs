@@ -12,7 +12,7 @@ params:
     rssFullContent: true
     favicon: 
     	enabled: true
-    	local: ture
+    	local: true
     	src: img/favicon.png
 
     footer:
