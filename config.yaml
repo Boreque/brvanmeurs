@@ -10,7 +10,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: img/favicon.png
+    favicon: assets/img/favicon.png
 
     footer:
         since:
