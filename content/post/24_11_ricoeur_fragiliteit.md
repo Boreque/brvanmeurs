@@ -13,7 +13,7 @@ categories= ["Filosofie",
 image = "../images/24_11_ricoeur.png"
 +++
 
-Steeds vaker zie ik goed bedoelende mensen de moed opgeven, omdat ze niet geloven dat verandering mogelijk is. Het lijkt alsof de geschiedenis al geschreven is, de democratie al zijn houdbaarheidsdatum bereikt heeft en de mens toch niets anders kan dan de planeet vernietigen. Als we zulke gedachten geloven, dan denken we dat we in een tragedie leven. In tragedies ligt namelijk al vast wat gaat gebeuren en alle pogingen aan het noodlot te ontsnappen, versnellen juist de komst van het onvermijdelijke ongeluk. Als onze geschiedenis een tragedie is, dan kunnen we dus inderdaad beter opgeven. 
+Steeds vaker zie ik goed bedoelende mensen om mij heen de moed opgeven, omdat ze niet geloven dat verandering mogelijk is. Vrienden verzuchten dat de geschiedenis al geschreven is. Familie denkt dat de democratie over zijn houdbaarheidsdatum is. Studenten geloven dat de mens toch niet anders kan dan de planeet vernietigen. Als we zulke gedachten geloven, dan denken we dat we in een tragedie leven. In tragedies ligt namelijk al vast wat gaat gebeuren. Alle pogingen aan het noodlot te ontsnappen, versnellen juist de komst van het onvermijdelijke ongeluk. Als onze geschiedenis een tragedie is, dan kunnen we dus inderdaad beter opgeven. 
 
 Maar in het werk van Paul Ricoeur, waarover mijn proefschrift gaat, kwam ik laatst een spannende, andere visie tegen. Ricoeur denkt dat we onze tijd niet als tragisch maar vooral als fragiel moeten zien. Tragedies leren ons dat we moeten berusten in ons lot. Maar fragiliteit roept ons op tot verantwoordelijkheid. Als we nadenken over onze fragiele samenleving, dan zien we beter wat er op het spel staat; we moeten en kunnen het fragiele beschermen.
 
