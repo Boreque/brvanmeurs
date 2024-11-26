@@ -4,3 +4,10 @@ h1 {
   font-size: 1em;
   margin: .67em 0;
 }
+
+img[src$='#center'] {
+  display: block;
+  margin: 1.0rem auto;
+  max-width: 100%;
+  height: auto;
+}
