@@ -1,5 +1,5 @@
 +++
-date= 26-11-2024
+date= 2024-11-26
 menu= "post"
 title = "Deze tijd is niet tragisch: ze is fragiel"
 description = "Paul Ricoeur over fragiliteit"
