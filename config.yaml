@@ -10,7 +10,10 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: assets/img/favicon.png
+    favicon: 
+    	enabled: true
+    	local: ture
+    	src: img/favicon.png
 
     footer:
         since:
