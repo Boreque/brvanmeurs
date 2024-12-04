@@ -5,77 +5,213 @@
         <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on B.R. van Meurs</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Css</title>
-        <link>http://localhost:1313/tags/css/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <language>nl</language>
+        <lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hermeneutiek</title>
+        <link>http://localhost:1313/tags/hermeneutiek/</link>
+        <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/css/</guid>
+        <guid>http://localhost:1313/tags/hermeneutiek/</guid>
         <description></description>
         </item>
         <item>
-        <title>Html</title>
-        <link>http://localhost:1313/tags/html/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Politiek</title>
+        <link>http://localhost:1313/tags/politiek/</link>
+        <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/html/</guid>
+        <guid>http://localhost:1313/tags/politiek/</guid>
         <description></description>
         </item>
         <item>
-        <title>Markdown</title>
-        <link>http://localhost:1313/tags/markdown/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Ricoeur</title>
+        <link>http://localhost:1313/tags/ricoeur/</link>
+        <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/markdown/</guid>
+        <guid>http://localhost:1313/tags/ricoeur/</guid>
         <description></description>
         </item>
         <item>
-        <title>Themes</title>
-        <link>http://localhost:1313/tags/themes/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Activisme</title>
+        <link>http://localhost:1313/tags/activisme/</link>
+        <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/themes/</guid>
+        <guid>http://localhost:1313/tags/activisme/</guid>
         <description></description>
         </item>
         <item>
-        <title>Privacy</title>
-        <link>http://localhost:1313/tags/privacy/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Geëngageerd Boeddhisme</title>
+        <link>http://localhost:1313/tags/ge%C3%ABngageerd-boeddhisme/</link>
+        <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/privacy/</guid>
+        <guid>http://localhost:1313/tags/ge%C3%ABngageerd-boeddhisme/</guid>
         <description></description>
         </item>
         <item>
-        <title>Shortcodes</title>
-        <link>http://localhost:1313/tags/shortcodes/</link>
-        <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Fermentatie</title>
+        <link>http://localhost:1313/tags/fermentatie/</link>
+        <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/shortcodes/</guid>
+        <guid>http://localhost:1313/tags/fermentatie/</guid>
         <description></description>
         </item>
         <item>
-        <title>Tag With Whitespaces</title>
-        <link>http://localhost:1313/tags/tag-with-whitespaces/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Sandor Katz</title>
+        <link>http://localhost:1313/tags/sandor-katz/</link>
+        <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/tag-with-whitespaces/</guid>
+        <guid>http://localhost:1313/tags/sandor-katz/</guid>
         <description></description>
         </item>
         <item>
-        <title>Text</title>
-        <link>http://localhost:1313/tags/text/</link>
-        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Aarde</title>
+        <link>http://localhost:1313/tags/aarde/</link>
+        <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/text/</guid>
+        <guid>http://localhost:1313/tags/aarde/</guid>
         <description></description>
         </item>
         <item>
-        <title>Emoji</title>
-        <link>http://localhost:1313/tags/emoji/</link>
-        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        <title>Bodem</title>
+        <link>http://localhost:1313/tags/bodem/</link>
+        <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/tags/emoji/</guid>
+        <guid>http://localhost:1313/tags/bodem/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Geologie</title>
+        <link>http://localhost:1313/tags/geologie/</link>
+        <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/geologie/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tijd</title>
+        <link>http://localhost:1313/tags/tijd/</link>
+        <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/tijd/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Verleden</title>
+        <link>http://localhost:1313/tags/verleden/</link>
+        <pubDate>Sun, 06 Dec 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/verleden/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Antropoceen</title>
+        <link>http://localhost:1313/tags/antropoceen/</link>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/antropoceen/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Fotografie</title>
+        <link>http://localhost:1313/tags/fotografie/</link>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/fotografie/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Beeldcultuur</title>
+        <link>http://localhost:1313/tags/beeldcultuur/</link>
+        <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/beeldcultuur/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Horizon</title>
+        <link>http://localhost:1313/tags/horizon/</link>
+        <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/horizon/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Planisfeer</title>
+        <link>http://localhost:1313/tags/planisfeer/</link>
+        <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/planisfeer/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Diepe Tijd</title>
+        <link>http://localhost:1313/tags/diepe-tijd/</link>
+        <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/diepe-tijd/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Geluid</title>
+        <link>http://localhost:1313/tags/geluid/</link>
+        <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/geluid/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>A Land Imagined</title>
+        <link>http://localhost:1313/tags/a-land-imagined/</link>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/a-land-imagined/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Film</title>
+        <link>http://localhost:1313/tags/film/</link>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/film/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Cold Fish</title>
+        <link>http://localhost:1313/tags/cold-fish/</link>
+        <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/cold-fish/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Mother</title>
+        <link>http://localhost:1313/tags/mother/</link>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/mother/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Chakrabarty</title>
+        <link>http://localhost:1313/tags/chakrabarty/</link>
+        <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/chakrabarty/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Federau</title>
+        <link>http://localhost:1313/tags/federau/</link>
+        <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/federau/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Geschiedenis</title>
+        <link>http://localhost:1313/tags/geschiedenis/</link>
+        <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/geschiedenis/</guid>
         <description></description>
         </item>
         

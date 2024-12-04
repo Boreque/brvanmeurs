@@ -15,17 +15,16 @@ image = "../images/blog_fermentatie.png"
 
 # Fermentatie als metafoor voor sociale verandering
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kefir_wodny_%28Tibicos%29.jpg/640px-Kefir_wodny_%28Tibicos%29.jpg "Kefir")
 
-<p style="text-align: center;">Kefir onder de microscoop, Wikimedia Commons.</p>
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kefir_wodny_%28Tibicos%29.jpg/640px-Kefir_wodny_%28Tibicos%29.jpg" width="100%" caption="Kefir onder microscoop. [Bron](https://wikimediacommons.org)" >}}
 
-We willen allemaal impact maken op de wereld. Maar als je verandering afdwingt, gaat het meestal mis. In deze blogpost onderzoek of fermentatie, het gecontroleerd laten vergaan van voedsel, een metafoor zou kunnen zijn voor actie. Zuurkool, kombucha, en bier kunnen ons namelijk leren dat we voor verandering vooral de juiste omstandigheden nodig hebben. Want dan kan het in een keer hard gaan. 
+We willen allemaal impact maken op de wereld. Maar als je verandering afdwingt, gaat het meestal mis. In deze blogpost onderzoek ik of fermentatie, het gecontroleerd laten vergaan van voedsel, een metafoor zou kunnen zijn voor actie. Zuurkool, kombucha, en bier kunnen ons namelijk leren dat we voor verandering vooral de juiste omstandigheden nodig hebben. Want dan kan het in een keer hard gaan. 
 
-# Mijn gemberkind 
+# Een gemberbaby 
 
 Fermentatie is een proces waarbij je voedsel gecontroleerd laat rotten, waardoor het een andere smaak en eigenschappen krijgt. Denk zuurkool. Denk kombucha. Denk, ook, bier en kaas. Je begint fermentatie vaak door bepaalde omstandigheden te creëren waarin gewenste bacteriën gedijen, terwijl ziekteverwekkers het loodje leggen. Als je deze omstandigheden hebt gemaakt, moet je het proces loslaten de bacteriën hun ding laten doen. Na een week is je witte kool dan in zuurkool veranderd. 
 
-Dat loslaten vind ik nogal moeilijk. Dat blijkt tenminste nu ik een paar weken bezig ben met fermentatie. Iedere dag buig ik als een bezorgde ouder over mijn potje fermenterende gember. Pas als ik kleine bubbeltjes zie, dan weet ik dat het proces nog goed op gang is. Het liefste zou ik zélf iets doen om ervoor te zorgen dat het goed blijft gaan. Maar helaas, zodra de groente in de pot zit, kun je niets meer doen dan wachten. 
+Dat loslaten vind ik nogal moeilijk. Sinds ik met fermeteren begonnen ben, een paar weken geleden, buig ik iedere dag als een bezorgde ouder over mijn potje fermenterende gember. Pas als ik een paar kleine bubbeltjes zie, ben ik opgelucht. Dan weet ik namelijk dat het fermentatieproces nog goed op gang is. Maar het liefste zou ik zélf iets doen om ervoor te zorgen dat het goed blijft gaan, alsof ik de tentamens van mijn eigen kind zou maken. Maar helaas, zodra de groente in de pot zit, kun je niets meer doen dan wachten. 
 
 De fermentatiegoeroe Sandor Katz legt in zijn boek [*Fermentation as Metaphor*](https://www.chelseagreen.com/product/fermentation-as-metaphor/) uit dat hij gelooft dat fermenteren ons kan stimuleren om beter om te gaan met de rommeligere kanten van het leven. Ik denk dat hij gelijk heeft en dat fermentatie ons kan helpen om te zien dat dingen kunnen veranderen *buiten onze controle om*. 
 
@@ -35,8 +34,8 @@ In de veelbesproken film [*Seaspiracy*](https://www.seaspiracy.org/), bijvoorbee
 
 Al gauw blijkt nauwelijk dat een aanzienlijk deel van het plastic niet door de rietjes van consumenten, maar door visnetten in de oceanen komt. Dus volgt Ali de complexe ketens van *trawlers*, bijvangst, betekenisloze keurmerken, kweekvis, piraterij, tot illegale handel in haaienvinnen. Daardoor wordt duidelijk dat er niet één punt is vanuit waar je alle problemen in één keer kan oplossen. Alles hangt met alles samen. Daar sta je dan met je prikkertje. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lactobacillus_%28Gram%2B%29.jpg/640px-Lactobacillus_%28Gram%2B%29.jpg)
-<p style="text-align: center;">Lactobacillus onder de microscoop, Wikimedia Commons</p>
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lactobacillus_%28Gram%2B%29.jpg/640px-Lactobacillus_%28Gram%2B%29.jpg" width="100%" caption="Lactobacillus onder de microscoop. [Bron](https://wikimediacommons.org)" >}}
 
 Nadat de film deze wat sombere conclusie trekt, wordt er tóch een simpele boodschap aan de kijker gegeven: eet geen vis meer! Als we allemaal zouden stoppen met sushi en kabeljauw zou dat zeker een betere wereld opleveren - in ieder geval voor de vissen (misschien iets minder voor de sushichefs). Maar dat jij niet langer naar de viskraam gaat lost nog op zichzelf nog niets op. Zulke adviezen lijken ons controle te geven doordat *jijzelf* iets kunt doen voor een betere wereld, maar ze gaan voorbij aan de complexiteit van de beerput waarin we wegzinken.
 
@@ -46,8 +45,8 @@ Fermentatie geeft ons een ander model om dingen te veranderen. Het gaat hier nie
 
 Kunnen we dit als een model zien voor sociale veranderingen? Dan bedoel ik niet dat we mensen in zout onderdompelen en wachten op een wonder. Ik bedoel dat we dingen kunnen veranderen door *de juiste omstandigheden te maken*, éérder dan door zélf heiligen of helden te worden. In plaats van alleen maar zelf nooit meer te vliegen, nooit meer vis te eten, nooit plastic te gebruiken, etc., zou je de nadruk dan kunnen leggen op het bouwen van gemeenschappen en instituten die elkaar kunnen helpen en versterken. 
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lactobacillus_acidophilus_SEM.jpg/640px-Lactobacillus_acidophilus_SEM.jpg)
-<p style="text-align: center;">Lactobacillus, Wikimedia Commons</p>
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lactobacillus_acidophilus_SEM.jpg/640px-Lactobacillus_acidophilus_SEM.jpg" width="100%" caption="Lactobacillus. [Bron](https://wikimediacommons.org)" >}}
 
 Je geeft daarmee de regie wat uit handen en je laat dingen veranderen op hun eigen tempo. Net zoals je zuurkool niet binnen één dag kunt maken, zul je voor sommige sociale transformaties ook meer tijd moeten toestaan. Ook zal de oplossing van een probleem anders kunnen zijn dan je voor je zag. Je laat los en kijkt wat er gebeurt. En je moet erop durven vertrouwen dat er uit zulke spontane samenkomsten iets interessants kan ontstaan.
 
@@ -61,6 +60,6 @@ Zoals bij zoveel bezorgde vaders, blijken mijn zorgen over mijn zorgenkindje ont
 
 Hoewel ik voor het klimaat nog zoek naar de geschikte omgeving, de juiste kaders, het gepaste tempo, hoop ik dat ik kan leren van mijn potjes zuurkool en gefermenteerde uitjes in mijn zoektocht naar een adequate reactie op de de verstoringen van de natuurlijke wereld om ons heen. Zou het dan toch kunnen dat dingen eindelijk écht veranderen, als we beetje bij beetje werken aan een wereld waarin nieuwe dingen kunnen ontstaan? Als de juiste mensen elkaar ontmoeten in de juiste omstandigheden? Zoals Katz zegt, zodra de bubbels beginnen te verschijnen, is alles mogelijk...
 
-## Bronnen
+# Bron
 
 Katz, Sandor. 2020. *Fermentation as Metaphor*. Chelsea Green Publishing.

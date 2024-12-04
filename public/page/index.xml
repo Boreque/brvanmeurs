@@ -5,65 +5,38 @@
         <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on B.R. van Meurs</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
+        <language>nl</language>
+        <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archief</title>
         <link>http://localhost:1313/page/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/page/archives/</guid>
         <description></description>
         </item>
         <item>
-        <title>About</title>
+        <title>Over mij</title>
         <link>http://localhost:1313/page/about/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/page/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;h1 id=&#34;wie-ben-ik&#34;&gt;Wie ben ik?
+&lt;/h1&gt;&lt;p&gt;Mijn naam is Boris Robert van Meurs (1994). Ik ben filosoof, docent, en beoefenaar van Zen. Samen met mijn vrouw en zoontje woon ik in Nijmegen.&lt;/p&gt;
+&lt;p&gt;Op mijn blog vind je een paar van mijn gedachtes over eco-filosofie, literatuur, zenboeddhisme en andere zaken die mijn interesse hebben. Ik hoop dat mijn bijdragen jouw eigen denken inspireren of aanleiding geven tot verdere discussie.&lt;/p&gt;
+&lt;h2 id=&#34;filosofie&#34;&gt;Filosofie
+&lt;/h2&gt;&lt;p&gt;In mijn werk als &lt;strong&gt;filosoof&lt;/strong&gt; richt ik mij op vragen rondom ecologie en klimaatverandering. Volgens mij verandert deze problematiek drastisch hoe wij onszelf en de wereld om ons heen begrijpen. Ik ben geïnteresseerd in hoe de kunsten en literatuur proberen deze veranderingen begrijpelijk te maken voor ons. Graag werk ik aan de hand van de filosofie van auteurs zoals Paul Ricoeur, Jean-Luc Nancy, Maurice Blanchot en Bernard Stiegler.&lt;/p&gt;
+&lt;p&gt;Vanaf 2019 ben ik bezig aan een zesjarig traject als docent/promovendus aan de Radboud Universiteit. Mijn &lt;strong&gt;proefschrift&lt;/strong&gt; gaat over Paul Ricoeurs filosofie in relatie tot wat ik planetaire ficties noem. Planetaire ficties zijn romans waarvan de thematiek te maken heeft met de huidige transformaties van de aarde als geheel. Mijn stelling is dat we zulke romans niet lezen om de klimaatproblematiek op te lossen, maar juist om te onderzoeken hoe onze macht en controle over de aarde tegen grenzen aanloopt.&lt;/p&gt;
+&lt;h2 id=&#34;docentschap&#34;&gt;Docentschap
+&lt;/h2&gt;&lt;p&gt;Als &lt;strong&gt;docent&lt;/strong&gt; geef ik al jaren les in de filosofie. Na een educatieve master heb ik een jaar voor de klas gestaan in een middelbare school in Zwolle, waar ik aan alle leerjaren lesgegeven heb. Tijdens mijn promotietraject geef ik nu les aan studenten, waarbij ik bijna al mijn cursussen heb mogen ontwerpen. Het accent lag op vaardigheidscursussen, maar ik heb ook cursussen over mijn onderzoek en over de klimaatcrisis verzorgd.&lt;/p&gt;
+&lt;h2 id=&#34;zenboeddhisme&#34;&gt;Zenboeddhisme
+&lt;/h2&gt;&lt;p&gt;Naast mijn werk als filosoof en docent ben ik bevlogen over &lt;strong&gt;zenboeddhisme&lt;/strong&gt;. Met plezier neem ik deel aan zengroep Oshida in Nijmegen. Zen is voor mij een religieuze toewijding aan aandacht. Door meditatie en andere oefeningen helpt zen je om zonder oordeel te observeren wat er is. Je oefent zo om los te komen van giftige verwachtingen, zinloze verlangens, en misleidende ideeën. Het spannende aan zen is echter dat je het nooit simpelweg als een instrument kunt inzetten om dit te alles te bereiken. Zen is nergens goed voor en precies daarom zo goed.&lt;/p&gt;
+&lt;p&gt;Ik onderzoek telkens hoe zen doorwerkt voorbij jezelf, in de maatschappij. Volgens mij is er namelijk een plaats voor &lt;strong&gt;geëngageerd boeddhisme&lt;/strong&gt;, dat breekt met het individualisme van sommige andere vormen van spiritualiteit. Volgens mij is de beoefening van zen namelijk in lijn te brengen met maatschappelijk engagement. Een bescheiden weg die niet polariseert.&lt;/p&gt;
+&lt;h1 id=&#34;contact&#34;&gt;Contact
+&lt;/h1&gt;&lt;p&gt;Wil je contact met mij opnemen omdat je een vraag hebt over mijn teksten, of, bijvoorbeeld, omdat je denkt dat wij zouden kunnen samenwerken? Je kunt mij bereiken op het mailadres: boris punt vanmeurs apenstaart ru punt nl.&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>Links</title>
-        <link>http://localhost:1313/page/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/page/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;links&lt;/span&gt;:
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.com&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  - &lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;description&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;website&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#f92672&#34;&gt;image&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;ts-logo-128.jpg&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Search</title>
+        <title>Zoeken</title>
         <link>http://localhost:1313/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         

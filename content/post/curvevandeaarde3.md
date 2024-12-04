@@ -6,44 +6,26 @@ description = "Wanneer zagen wij de aarde voor het eerst op foto's?"
 tags= [
     "Fotografie",
     "Aarde",
-    "Beeldcultuur",
-    "Horizon",
-	"Earthrise"
+    "Antropoceen"
 ]
+categories= "Filosofie"
 image = "../images/aardeiii.png" 
 +++
 
-
-![](https://www.nasa.gov/sites/default/files/thumbnails/image/1b-presentation13.jpg)
-
-*De crew van Apollo 8 legde in 1968 de 'opkomende' aarde vast*
-<br/><br/>
-
-
-<!--more-->
-
-
-### Vanaf grote hoogte
+{{< figure src="https://www.nasa.gov/sites/default/files/thumbnails/image/1b-presentation13.jpg" width="100%" caption="De Apollo 8 crew fotografeerde in 1968 de \'opkomende\' aarde vanuit de ruimte. [Bron](https://www.nasa.gov/)" >}}
  
-Vandaag het laatste deel van een drieluik over afbeeldingen van de aarde. In het Antropoceen verhoudt de mens zich ten opzichte van 'de hele aarde'. Maar hoe lang kunnen we deze al zien op foto's?
-
-[Vorige maand](https://www.de-klos.net/curvevandeaarde2) had ik het over de curve van de aarde, die in het begin van de 20e eeuw zichtbaar werd op een foto vanuit een luchtballon. [De maand daarvoor](https://de-klos.net/curevandeaarde1) liet ik zien hoe ons wereldbeeld veranderde door foto's van bovenaf. Vandaag kijken we naar het ontstaan van de iconische foto Earthrise, één van de eerste foto's van de hele aarde gemaakt zoals gezien door astronauten. 
-
-Wat deed het met ons, om de aarde eindelijk als een geheel te zien? 
+In het Antropoceen beïnvloedt de mens \'de hele aarde\'. Hoe lang hebben we al een beeld van onze planeet in zijn geheel? [Vorige maand](https://www.de-klos.net/curvevandeaarde2) had ik het over de curve van de aarde, die in het begin van de 20e eeuw zichtbaar werd op een foto vanuit een luchtballon. [De maand daarvoor](https://de-klos.net/curevandeaarde1) liet ik zien hoe ons wereldbeeld veranderde door de eerste luchtfoto\'s van bovenaf. Vandaag kijken we naar het ontstaan van de iconische foto *Earthrise*, één van de eerste foto's van de hele aarde gemaakt zoals gezien door astronauten. Wat deed het met ons, om de aarde eindelijk als een geheel te zien? 
 
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/s68-55808.jpg?raw=true "s68-55808")
-*[De eerste foto](https://spaceflight.nasa.gov/gallery/images/apollo/apollo8/html/s68-55809.html) van de hele aarde door astronauten* 
+{{< figure src="https://github.com/Boreque/deklos/blob/master/static/images/s68-55808.jpg?raw=true" width="100%" caption=". De eerste foto van de hele aarde. [Bron](https://spaceflight.nasa.gov/)" >}}
 
-### You are looking at yourselves
+# You are looking at yourselves
 
-_"We're seeing about half of it. It is going off to our 12 o'clock. Now it is going off to our 3 o'clock. That is the wrong direction..."_ 
+> We're seeing about half of it. It is going off to our 12 o'clock. Now it is going off to our 3 o'clock. That is the wrong direction...
 
-Het had bijna iets komisch. Technici in Houston stuurden op 22 december 1968 de astronaut Bill Anders aan om zijn camera op de aarde te richten vanuit het ruimteschip van de Apollo 8 missie. Terwijl Anders op meer dan 280.000 kilometer van de aarde zweefde, deed hij zijn best om de instructies op te volgen die, tot grote verwarring, met meer dan een seconde vertraging binnenkwamen. 
+Het had bijna iets komisch. Op 280.000 kilometer van elkaar vandaan probeerden technici in Houston de astronaut Bill Anders instructies te geven om zijn camera op de aarde te richten. Anders zelf had geen beeld, en omdat de instructies met een seconde vertraging binnenkwamen bewoog hij de camera telkens een verkeerde kant uit. De kneuterigheid van deze situatie deed denken aan een echtpaar dat probeert om een fotolijstje recht te hangen in de woonkamer. 'Iets naar links! Niet zo ver!'
 
-Anders bewoog de camera telkens de verkeerde kant op, waardoor de aarde uit beeld verdween. Hij kon zelf niet zien wat er in beeld was. En het is nogal moeilijk afstemmen als je instructies krijgt over wat er een seconde geleden in beeld was. De hele situatie had wat huiselijks en deed denken aan een echtpaar dat probeert om een fotolijstje recht te hangen in de woonkamer. 'Iets naar links! Niet zo ver!'
-
-NASA en de astronauten van de Apollo 8 missie wilden de aarde laten zien aan de mensen thuis. Live. Op televisie. Voor het eerst werd de gehele aarde vastgelegd door mensen die zelf in de ruimte waren. Maar Bill Anders worstelde nu nog met zijn camera. De mensen thuis zouden hooguit een randje van de aarde kunnen zien. 
+Op deze dag in 1968 probeerden NASA en de astronauten van de Apollo 8 missie aarde te laten zien aan de mensen thuis. Live. Op televisie. Voor het eerst werd de gehele aarde vastgelegd door mensen die zelf in de ruimte waren - een historisch moment. Maar Bill Anders worstelde vooralsnog met zijn camera. Uiteindelijk zouden de mensen thuis niet veel meer zien van de aarde dan een klein, onduidelijk randje. 
 
 _"Stop right there. That is worse, Bill. Go back where you were ... Now it's coming back... That is extremely good on the earth if you can just hold it like that."_ 
 
