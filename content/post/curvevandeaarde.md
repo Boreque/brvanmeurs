@@ -2,35 +2,37 @@
 date= 2020-08-02
 menu= "post"
 title = "Vanaf grote hoogte I: de planisfeer"
-description = "Wanneer zagen wij de aarde voor het eerst op foto's?"
+description = "Wanneer zagen wij de aarde voor het eerst op foto\'s?"
 tags= [
     "Fotografie",
     "Aarde",
-    "Beeldcultuur",
-    "Planisfeer",
+    "Antropoceen"
 ]
 image = "../images/aarde.png"
+categories = "Filosofie"
 +++
 
-![](https://github.com/Boreque/deklos/blob/master/static/images/cailletet_1898.png?raw=true "Cailletet")
 
-*Cailletet's gravure van een barometer, geplaatst voor een verticale foto van het landschap, 1898. [Bron](http://cnum.cnam.fr/CGI/fpage.cgi?4KY28.50/69/100/536/5/420)*
-
-<!--more-->
-
-### Vanaf grote hoogte
+{{< figure src="https://github.com/Boreque/deklos/blob/master/static/images/cailletet_1898.png?raw=true" width="100%" caption="Cailletets gravure van een barometer, geplaatst voor foto vanuit een verticaal perspectief op het landschap. 1898. [Bron](http://cnum.cnam.fr/CGI/fpage.cgi?4KY28.50/69/100/536/5/420)" >}}
  
-Vandaag deel één van een drieluik over afbeeldingen van de aarde. In het Antropoceen verhoudt de mens zich ten opzichte van 'de hele aarde'. Hoe lang is de hele planeet al zichtbaar voor mensen?
+Doordat onze invloed overal merkbaar is op onze planeet, moeten wij in het Antropoceen de aarde als een geheel begrijpen. Maar hoe lang is de hele planeet al zichtbaar voor mensen? In dit eerste deel van een drieluik kijken we naar de ontdekking van \'planisfeer\', een perspectief op de aarde van bovenaf waarin alle diepte verdwijnt. De planisfeer was in eerste instantie een verwarrend perspectief, omdat we begrippen als onder en boven, dichtbij en ver weg hun betekenis verloren. 
 
-### De 'planisfeer'
- 
-De Syrische schrijver Lucian fantaseerde in de tweede na Christus wat hij zou zien als hij op zou stijgen van aarde en naar beneden keek. Op het oppervlakte van de planeet, dacht Lucian, was de mens nietig en hadden onze steden iets weg van mierenhopen. De conflicten van de mensheid leken belachelijk, omdat de grenzen die de landkaarten indelen nergens te bekennen zijn. Lucian stelt zich voor dat hij lachend om de mens in de vrije ruimte zou weven. Het perspectief van boven was voor Lucian slechts een fantasie, en de mens zou aan het aardoppervlak gekluisterd blijven tot de negentiende eeuw. Toen steeg de ballon van Franse fotograaf Félix Nadar op boven stad Parijs. Eindelijk zag de mens met eigen ogen hoe de wereld van boven eruit zag.
 
-Nadar begon een nieuw genre in de fotografie: de fotografie van bovenaf. Lucian's fantasie was werkelijkheid geworden, zichtbaar voor iedereen op de foto's die stad plat als een pannekoek lieten zien. Als je hoog genoeg kwam met je ballon, ontdekte Nadar, blikte je namelijk op het landschap vanaf de 'planisfeer', waar er "geen waarneming van verschil in hoogte" meer is: "Alles is 'in focus'. [...] Er is geen waarneembaar onderscheid tussen de vlakke velden van alfalfa en de antieke wouden van oude eiken." De planisfeer had daarmee een relativerend effect: bergen leken even hoog als valleien, protserige gebouwen even nietig als het schamelste krot.
+# Vliegen boven de aarde 
 
-De fotografie vanaf de planisfeer was een eerste stap in de geschiedenis van foto's van de hele aarde. Hoewel plannen van Nadar om vanuit zijn ballon héél Frankrijk in kaart te brengen te ambitieus bleken, veranderde het perspectief van boven de relatie tussen mens en landschap. De mens leefde niet alleen maar in het landschap, ze kon zich er ook boven verheffen. Niet langer had je een standplaats nodig op *aarde*. De foto's vanuit de planisfeer bewogen langzaam richting de volledige vrijheid van de ruimte. 
+De Syrische schrijver Lucian fantaseerde in de tweede na Christus wat hij zou zien als hij op zou stijgen van aarde en naar beneden keek. Op het oppervlakte van de planeet als geheel, dacht Lucian, leek de mens maar nietig en hadden onze steden zelfs wat weg van mierenhopen. Oorlog zou er er zelfs belachelijk uitzien, omdat de hard bevochte landsgrenzen nergens wel op onze kaarten maar niet op de aarde zelf te bekennen zijn. Lucian stelde zich voor hoe hij lachend over de mens zou zweven, lachend om zoveel waanzin. 
 
-### Verlies van de horizon
+Het perspectief van boven was voor Lucian slechts een fantasie, en de mens zou aan het aardoppervlak gekluisterd blijven tot de negentiende eeuw. Toen steeg de ballon van Franse fotograaf Félix Nadar op boven stad Parijs. En eindelijk zag de mens met eigen ogen hoe de wereld vanaf boven er echt uitzag.
+
+Nadar begon met zijn experimenten een nieuw genre in de fotografie: de verticale fotografie van bovenaf. Lucians fantasie was daarmee werkelijkheid geworden, tastbaar voor iedereen die de foto\'s kwam bekijken waarop de stad zich plat als een pannenkoek uitstrekte. Als je hoog genoeg kwam met je ballon, ontdekte Nadar, blikte je namelijk op het landschap vanaf de \'planisfeer\', vanaf waar er \"geen waarneming van verschil in hoogte\" meer is. 
+
+> Alles is \'in focus\'. [...] Er is geen waarneembaar onderscheid tussen de vlakke velden van alfalfa en de antieke wouden van oude eiken. 
+
+De planisfeer had daarmee een relativerend effect: bergen leken even hoog als valleien, protserige gebouwen even nietig als het schamelste krot.
+
+De fotografie vanaf de planisfeer was een eerste stap in de geschiedenis van foto\'s van de hele aarde. Hoewel de plannen van Nadar om vanuit zijn ballon héél Frankrijk in kaart te brengen te ambitieus bleken, veranderde zijn fotografie de relatie tussen mens en landschap. De mens leefde niet alleen maar in het landschap, ze kon zich er ook boven verheffen. Niet langer had je een standplaats nodig op *aarde* om de aarde te zien. De foto\'s vanuit de planisfeer bewogen langzaam richting de volledige vrijheid van de ruimte. 
+
+# Verlies van de horizon
  
 De ontdekking van de planisfeer was een radicale omslag in de fotografie, stelt Sebastian Grevsmühl in zijn boek *La Terre vue d'en Haut*. Deze Franse geschiedkundige beargumenteert dat de foto's vanuit de planisfeer mensen voor het eerst laten zien hoe de wereld eruit ziet 'zonder horizon'. Vanaf boven gezien toont het landschap zich immers zonder horizon 'in de verte'. Alles is plat en op één niveau zichtbaar. Dit unieke perspectief leidde nogal tot verwarring. 
 
