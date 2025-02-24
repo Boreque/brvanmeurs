@@ -3,7 +3,15 @@ module:
         extended: true
         min: "0.87.0"
         
-DefaultContentLanguage: 'nl'
+defaultContentLanguage: nl
+languages:
+  nl:
+    contentDir: content
+    languageCode: nl-NL
+    languageName: Nederlands
+    params:
+      reading_speed: 179
+    weight: 1
 
 markup:
   goldmark:
