@@ -1,5 +1,5 @@
 +++
-date= 2024-12-20
+date= 2025-02-23
 menu= "post"
 title = "De woorden keren ons de rug toe"
 description = "Machteloze woorden in poëzie en literatuur"

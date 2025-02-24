@@ -2,7 +2,7 @@
 date= 2020-08-02
 menu= "post"
 title = "Vanaf grote hoogte I: de planisfeer"
-description = "Wanneer zagen wij de aarde voor het eerst op foto\'s?"
+description = "Wanneer zagen wij de aarde voor het eerst op foto/'s?"
 tags= [
     "Fotografie",
     "Aarde",
