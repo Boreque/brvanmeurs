@@ -3,7 +3,7 @@ module:
         extended: true
         min: "0.87.0"
         
-DefaultContentLanguage: nl
+DefaultContentLanguage: 'nl'
 
 markup:
   goldmark:
