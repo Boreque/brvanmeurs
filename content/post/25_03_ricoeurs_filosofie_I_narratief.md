@@ -69,6 +69,6 @@ We hebben nu drie belangrijke elementen aan verhalen gezien, welke ze voor Ricoe
 
 # Bronnen en meer lezen
 
-- Paul Ricoeur. 1986. "De l/'interpretation" in *Du Texte à l/'Action*, 11-35. Paris: Seuil. 
+- Paul Ricoeur. 1986. "De l\'interpretation" in *Du Texte à l\'Action*, 11-35. Paris: Seuil. 
 - Richard Kearney. 2004. *On Paul Ricoeur. The Owl of Minerva.*  Routledge.
 - Standford Encyclopedia of Philosophy over [Paul Ricoeur](https://plato.stanford.edu/entries/ricoeur/)
