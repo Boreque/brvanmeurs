@@ -1,7 +1,7 @@
 +++
 date= 2025-03-10
 menu= "post"
-title = "Ricoeur over interpretatie II: fictie en geschiedenis"
+title = "Ricoeur over interpretatie II: geschiedenis en verhalen"
 description = "Wat is de kern van Ricoeurs filosofie? Het essay 'over interpretatie' kan ons helpen dat te begrijpen."
 tags= [
 		"Ricoeur",
