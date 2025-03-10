@@ -22,7 +22,7 @@ article:
     lastUpdatedOn:
         other: Laatst bijgewerkt op
     readingTime:
-        other: "{{ .Count }} leestijd"
+        other: "{{ .Count }} minuten leestijd"
 
 notFound:
     title:
