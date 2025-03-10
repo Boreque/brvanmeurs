@@ -2,7 +2,7 @@
 date= 2025-03-10
 menu= "post"
 title = "Ricoeur over interpretatie II: fictie en geschiedenis"
-description = "Wat is de kern van Ricoeurs filosofie? Het essay \'over interpretatie\' kan ons helpen dat te begrijpen."
+description = "Wat is de kern van Ricoeurs filosofie? Het essay 'over interpretatie' kan ons helpen dat te begrijpen."
 tags= [
 		"Ricoeur",
 		"Hermeneutiek",
@@ -25,9 +25,7 @@ Alle referenties en citaten (door mij vertaald) verwijzen naar de Franse versie 
 
 Enkele zomervakanties geleden luisterden mijn vrouw en ik tijdens de lange terugreis in de auto naar de Belgische [podcastserie](https://www.vrt.be/vrtmax/podcasts/klara/n/napoleon/) over Napoleon van schrijver Johan Op De Beeck, die duidelijk overloopt van enthousiasme en bewondering voor de Franse generaal en keizer. In een meeslepend relaas vertelt Op De Beeck over de roerige liefdesperikelen van Napoleon, over zijn discipline en volharding, over zijn ongekende werkethiek — gelegerd in een tent nabij het front sliep Napoleon \'s nachts niet maar dicteerde hij vanuit zijn bedstee decreet na decreet. Napoleon verschijnt in dit verhaal daarom niet alleen als een krijgsheld, maar zelfs als een mythisch figuur, een man van zulk formaat dat hij de teugels van de geschiedenis lijkt te hebben.
 
-
 {{< figure src="/images/25_03_napoleon1.png" width="100%" caption="Geschiedschrijving is steeds meer een wetenschap geworden. Betekent dit dat historici nu zonder verhalen kunnen?">}}
-
 
 Na drie afleveringen waren wij deze wereldgeest-te-paard versie van Napoleon echter spuugzat en schakelden wij over op meezingers. Niet omdat Op De Beeck in zijn enthousiasme de feitelijkheid uit het oog zou verliezen — zijn relaas was duidelijk gestoeld op documenten, getuigenissen, brieven, et cetera — maar omdat ons het gevoel bekroop dat een complexe geschiedenis hier samengebald werd tot een verhaal als uit een avonturenroman. Kan de samenloop van historische omstandigheden écht worden toegeschreven aan één man als Napoleon, hoe indrukwekkend zijn politieke prestaties ook zijn? En kan je zijn verhaal vertellen zonder rekening te houden met banale zaken als de prijs van graan, de omvang van de bevolking, de inrichting van instituten, et cetera, die de context vormen waarin hij moest handelen? Hebben we voor het héle verhaal van het verleden niet geschiedenissen nodig zónder helden, en met meer oog voor de factoren die het dagelijks leven vormen? Als we naar het heden kijken geloven we toch ook niet dat de toekomst in zijn geheel afhangt van personen als Trump of Poetin, die ten slotte alleen zijn waar ze zijn doordat ze op de conjunctuur weten te surfen van condities als de economie of ideologie die geleidelijk aan veranderen met het trage tempo van gletsjers? 
 
